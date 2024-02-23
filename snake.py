@@ -1,4 +1,3 @@
-# 參考資料(介面): https://juejin.cn/post/7233686528328515621
 import random
 import sys
 from PyQt5.QtGui import QIntValidator
