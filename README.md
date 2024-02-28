@@ -2,4 +2,4 @@
 ***
 ![snake](snake.jpg)
 
-[google drive下載.exe](https://drive.google.com/drive/folders/1QYppNUWqs6pYJDimEn1ZTrxttpKZFCrv?usp=sharing)
+[exe下載](./dist/snake.exe)
